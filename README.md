@@ -47,8 +47,7 @@ Sistema web desenvolvido em **Node.js + Express + SQL Server**, com autenticaç�
 ## 📈 Em evolução
 
 Atualmente focado em:
-- Backend com Node.js
-- SQL Server avançado
+- SQL Server 
 - APIs REST
 - Autenticação segura
 - Projetos para portfólio
